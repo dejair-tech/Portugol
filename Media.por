@@ -1,5 +1,6 @@
 //Autor: Dejair
 //Data: 16.06.2021
+//Programa: Calculo de média de aproveitamento
 
 programa
 {
@@ -34,6 +35,7 @@ escreva ("Média =  ",(ME),"\n")
 //Exibição Média de Aproveitamento -> MA
 escreva ("Media de aproveitamento = ",(MA),"\n")
 
+
 //Condição de reprovação
 se (MA < 7){
 escreva ("Voce foi Reprovado\n")
@@ -50,7 +52,7 @@ escreva ("Parabens, voce foi Aprovado")
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 203; 
+ * @POSICAO-CURSOR = 81; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
